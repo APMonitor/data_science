@@ -16,15 +16,15 @@ There are 12 lessons to help you with the objective of learning data science in 
 
 1. [Overview](https://github.com/APMonitor/data_science/blob/master/01.%20Overview.ipynb)
 2. [Data Import and Export](https://github.com/APMonitor/data_science/blob/master/02.%20Import_Export.ipynb)
-3. [Basic Data Analysis](https://github.com/APMonitor/data_science/blob/master/03.%20Analyze.ipynb)
+3. [Data Analysis](https://github.com/APMonitor/data_science/blob/master/03.%20Analyze.ipynb)
 4. [Visualize Data](https://github.com/APMonitor/data_science/blob/master/04.%20Visualize.ipynb)
-5. [Cleanse Data](https://github.com/APMonitor/data_science/blob/master/05.%20Cleanse.ipynb)
-6. [Divide and Scale Data](https://github.com/APMonitor/data_science/blob/master/06.%20Prepare.ipynb)
-7. [Regression](https://github.com/APMonitor/data_science/blob/master/07.%20Regression.ipynb)
+5. [Prepare (Cleanse, Scale, Divide) Data](https://github.com/APMonitor/data_science/blob/master/05.%20Prepare_data.ipynb)
+6. [Regression](https://github.com/APMonitor/data_science/blob/master/06.%20Regression.ipynb)
+7. [Features](https://github.com/APMonitor/data_science/blob/master/07.%20Features.ipynb)
 8. [Classification](https://github.com/APMonitor/data_science/blob/master/08.%20Classification.ipynb)
 9. [Interpolation](https://github.com/APMonitor/data_science/blob/master/09.%20Interpolation.ipynb)
-10. [Linear and Nonlinear Equations](https://github.com/APMonitor/data_science/blob/master/10.%20Equations.ipynb)
-11. [Time Series](https://github.com/APMonitor/data_science/blob/master/11.%20Time_Series.ipynb)
+10. [Solve Equations](https://github.com/APMonitor/data_science/blob/master/10.%20Solve_Equations.ipynb)
+11. [Differential Equations](https://github.com/APMonitor/data_science/blob/master/11.%20Differential_Equations.ipynb)
 12. [Digital Twin](https://github.com/APMonitor/data_science/blob/master/12.%20Digital_Twin.ipynb)
 
 **Get TCLab**

@@ -25,7 +25,7 @@ There are 12 lessons to help you with the objective of learning data science in 
 9. [Interpolation](https://github.com/APMonitor/data_science/blob/master/09.%20Interpolation.ipynb)
 10. [Solve Equations](https://github.com/APMonitor/data_science/blob/master/10.%20Solve_Equations.ipynb)
 11. [Differential Equations](https://github.com/APMonitor/data_science/blob/master/11.%20Differential_Equations.ipynb)
-12. [Digital Twin](https://github.com/APMonitor/data_science/blob/master/12.%20Digital_Twin.ipynb)
+12. [Time Series](https://github.com/APMonitor/data_science/blob/master/12.%20Time_Series.ipynb)
 
 **Get TCLab**
 

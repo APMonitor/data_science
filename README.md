@@ -31,13 +31,13 @@ There are 12 lessons to help you with the objective of learning data science in 
 
 You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exercises.  The TCLab is available for [purchase on Amazon](https://www.amazon.com/TCLab-Temperature-Control-Lab/dp/B07GMFWMRY). 
 
-![Temperature Control Lab](http://apmonitor.com/pdc/uploads/Main/tclab_connect.png "TCLab")
+![Temperature Control Lab](https://apmonitor.com/pdc/uploads/Main/tclab_connect.png "TCLab")
 
 **Install Python**
 
 [Download and install Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
 
-[![Install Anaconda](http://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
+[![Install Anaconda](https://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
 
 There are additional instructions on how to [install Python and manage modules](https://apmonitor.com/pdc/index.php/Main/InstallPython).
 
@@ -49,5 +49,5 @@ We would love to hear any feedback or problems you would like to send us! We are
 
 - [Begin Python Course](https://github.com/APMonitor/begin_python)
 - [Engineering Programming Course](https://apmonitor.com/pdc) with [Source Code](https://github.com/APMonitor/learn_python)
-- [Temperature Control Lab (TCLab) Kit](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
+- [Temperature Control Lab (TCLab) Kit](https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
 - [Jupyter as interactive environment for Python, Julia, R](https://jupyter.org/)

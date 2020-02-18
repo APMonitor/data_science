@@ -2,7 +2,7 @@
 
 Welcome to this data science course on Python! This course is intended to help you develop data science and machine learning skills in Python. A [beginning Python course](https://github.com/APMonitor/begin_python) is available for programmers with no prior programming experience. As with the beginning course, this course has video tutorials for each exercise if you have questions along the way. One of the unique things about this course is that you work on basic elements and then test your knowledge with real data exercises with a heat transfer design project. You will see your Python code have a real impact by designing the materials for a new product.
 
-[![Python Data Science](https://apmonitor.com/che263/uploads/Begin_Python/DataScience00.png)](https://www.youtube.com/watch?v=EO_YpBs8cs0 "Python Data Science")
+[![Python Data Science](https://apmonitor.com/che263/uploads/Begin_Python/DataScience00.png)](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy "Python Data Science")
 
 One of the best ways to start or review a programming language is to work on a project. These exercises are designed to teach data science Python programming skills. Data science applications are found across almost all industries where raw data is transformed into actionable information that drives scientific discovery, business innovations, and development. This project is to determine the thermal conductivity of several materials. Thermal conductivity is how well a material conducts or insulates against heat transfer. The specific heat transfer project shows how to apply data science to solve an important problems with methods that are applicable to many different applications.
 

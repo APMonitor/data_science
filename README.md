@@ -41,15 +41,15 @@ You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exer
 
 **[Install Python on Windows](https://youtu.be/_BHsM452vK0)**
 
-    [![Install Python on Windows](https://img.youtube.com/vi/_BHsM452vK0/0.jpg)](https://www.youtube.com/watch?v=_BHsM452vK0 "Install Python on Windows")
+   [![Install Python on Windows](https://img.youtube.com/vi/_BHsM452vK0/0.jpg)](https://www.youtube.com/watch?v=_BHsM452vK0 "Install Python on Windows")
 
 **[Install Python on MacOS](https://youtu.be/2VECcPofhP8)**
 
-    [![Install Python on MacOS](https://img.youtube.com/vi/2VECcPofhP8/0.jpg)](https://www.youtube.com/watch?v=2VECcPofhP8 "Install Python on MacOS")
+   [![Install Python on MacOS](https://img.youtube.com/vi/2VECcPofhP8/0.jpg)](https://www.youtube.com/watch?v=2VECcPofhP8 "Install Python on MacOS")
 
 **[Install Python on Linux](https://youtu.be/eUq-6ZuwC_A)**
 
-    [![Install Python on Linux](https://img.youtube.com/vi/eUq-6ZuwC_A/0.jpg)](https://www.youtube.com/watch?v=eUq-6ZuwC_A "Install Python on Linux")
+   [![Install Python on Linux](https://img.youtube.com/vi/eUq-6ZuwC_A/0.jpg)](https://www.youtube.com/watch?v=eUq-6ZuwC_A "Install Python on Linux")
 
 There are additional instructions on how to [install Python and manage modules](https://apmonitor.com/pdc/index.php/Main/InstallPython).
 

@@ -37,9 +37,11 @@ You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exer
 
 **Install Python**
 
-[Download and install Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
+[Download and install Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or watch a video on how to [install Python on Windows](https://youtu.be/_BHsM452vK0) or [install Python on MacOS](2VECcPofhP8).
 
-[![Install Anaconda](https://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
+[![Install Python on Windows](https://img.youtube.com/vi/_BHsM452vK0/0.jpg)](https://www.youtube.com/watch?v=_BHsM452vK0 "Install Python on Windows")
+
+[![Install Python on MacOS](https://img.youtube.com/vi/2VECcPofhP8/0.jpg)](https://www.youtube.com/watch?v=2VECcPofhP8 "Install Python on MacOS")
 
 There are additional instructions on how to [install Python and manage modules](https://apmonitor.com/pdc/index.php/Main/InstallPython).
 

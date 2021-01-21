@@ -14,7 +14,7 @@ To make the problem more applicable to a real situation, suppose that you are de
 
 There are 12 lessons to help you with the objective of learning data science in Python. The first thing that you will need is to [install Anaconda](https://github.com/APMonitor/data_science/blob/master/00.%20Introduction.ipynb) to open and run the IPython notebook files in Jupyter. Any Python distribution or Integrated Development Environment (IDE) can be used (IDLE (python.org), Spyder, PyCharm, and others) but Jupyter notebook is required to open and run the IPython notebook (`.ipynb`) files. All of the IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/data_science/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
 
-<img src="http://apmonitor.com/che263/uploads/Main/python_data_science.png" width=100%/>
+[![Python Data Science](http://apmonitor.com/che263/uploads/Main/python_data_science.png)](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy "Python Data Science")
 
 1. [Overview](https://github.com/APMonitor/data_science/blob/master/01.%20Overview.ipynb)
 2. [Data Import and Export](https://github.com/APMonitor/data_science/blob/master/02.%20Import_Export.ipynb)
